@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/sid/esp/station/build/CMakeFiles/bootloader
+/home/sid/esp/station/build/CMakeFiles/bootloader.rule
+/home/sid/esp/station/build/CMakeFiles/bootloader-complete.rule
+/home/sid/esp/station/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/sid/esp/station/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/sid/esp/station/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/sid/esp/station/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+/home/sid/esp/station/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/sid/esp/station/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/sid/esp/station/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
