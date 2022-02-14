@@ -1,5 +1,5 @@
 # ESP HTTP Request example
-This project demonstrates how to use a GET request with the esp32 Wifi driver and can be further used for all other types if REST API.
+This project demonstrates how to use a GET request with the esp32 Wifi driver and can be further used for all other types of REST API.
 
 ## Running the Project:
 
